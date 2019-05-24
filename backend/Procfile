@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ardms_skillz_3781.wsgi:application

@@ -1,0 +1,3 @@
+rootProject.name = 'ardms_skillz_3781'
+
+include ':app'
